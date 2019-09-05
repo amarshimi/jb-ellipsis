@@ -25,16 +25,21 @@
   },
   "homepage": "https://github.com/amarshimi/jb-ellipsis#readme",
   "dependencies": {
-    "react": "^16.9.0",
-    "webpack": "^4.39.3"
+    "@babel/cli": "^7.5.5",
+    "react": "^16.9.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
+    "jest": "^24.9.0",
+    "path": "^0.12.7",
+    "webpack": "^4.39.3",
     "webpack-cli": "^3.3.7"
   }
 }
