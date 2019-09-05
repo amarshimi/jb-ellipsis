@@ -2,13 +2,17 @@
   "name": "jb-ellipsis",
   "version": "1.0.0",
   "description": "text ellipsis ...",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "build/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amarshimi/jb-ellipsis.git"
+  },
+  "peerDependencies": {
+    "react": "^16.4.0"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
   },
   "keywords": [
     "text",
