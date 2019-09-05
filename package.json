@@ -1,0 +1,23 @@
+{
+  "name": "jb-ellipsis",
+  "version": "1.0.0",
+  "description": "text ellipsis ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarshimi/jb-ellipsis.git"
+  },
+  "keywords": [
+    "text",
+    "ellipsis"
+  ],
+  "author": "shimon amar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarshimi/jb-ellipsis/issues"
+  },
+  "homepage": "https://github.com/amarshimi/jb-ellipsis#readme"
+}
